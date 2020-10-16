@@ -1,3 +1,6 @@
+const mockColumns = { columns: 5 };
+jest.mock('../constants', () => mockColumns);
+
 import { getX, getY, getIndex } from './coords';
 
 describe('coords', () => {
