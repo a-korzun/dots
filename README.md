@@ -1,6 +1,6 @@
 # Dots
 
-A simple 2D game, written in JS with HTML Canvas for practice.
+A simple 2D game, written in JS with HTML Canvas for fun.
 
 ### [Demo](https://a-korzun.github.io/dots/)
 
